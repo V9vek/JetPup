@@ -10,12 +10,16 @@ You can see pup details like gender, age, weight and other details
 
 ## :bulb: Motivation and Context
 Jetpack Compose make UI designing process smooth
+<br />
 JetPup made with Jetpack Compose exhibit its features
 
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+ <br />
 <img src="/results/screenshot_4.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
+<br />
+<img src="/results/video.gif" width="260">
 
 ## License
 ```

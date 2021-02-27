@@ -1,22 +1,25 @@
-# Put title of your app here
+# JetPup
 
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/V9vek/JetPup/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+JetPup allows you to find cute puppies for adoption
+You can see pup details like gender, age, weight and other details
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+Jetpack Compose make UI designing process smooth
+<br />
+JetPup made with Jetpack Compose exhibit its features
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+ <br />
+<img src="/results/screenshot_4.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
+<br />
+<img src="/results/video.gif" width="260">
 
 ## License
 ```
