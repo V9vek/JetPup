@@ -5,6 +5,7 @@
 
 ## :scroll: Description
 JetPup allows you to find cute puppies for adoption
+<br />
 You can see pup details like gender, age, weight and other details
 
 
