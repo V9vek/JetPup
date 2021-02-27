@@ -2,7 +2,11 @@ package com.example.androiddevchallenge.ui.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavType
-import androidx.navigation.compose.*
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.navArgument
+import androidx.navigation.compose.navigate
+import androidx.navigation.compose.rememberNavController
 import com.example.androiddevchallenge.ui.navigation.Screen.*
 import com.example.androiddevchallenge.ui.screens.DetailsScreen
 import com.example.androiddevchallenge.ui.screens.HomeScreen
