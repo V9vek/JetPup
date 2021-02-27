@@ -1,3 +1,18 @@
+/*
+ * Copyright 2021 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 package com.example.androiddevchallenge.data.model
 
 import com.example.androiddevchallenge.R
@@ -96,7 +111,8 @@ fun getPuppyList(): List<Puppy> {
             age = 4,
             color = "White",
             description = "This is Dexter. A labrador retriever puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        ), Puppy(
+        ),
+        Puppy(
             id = 8,
             photo = R.drawable.australian_terrier,
             name = "Ruby",
@@ -106,7 +122,8 @@ fun getPuppyList(): List<Puppy> {
             color = "Golden",
             age = 6,
             description = "This is Ruby. A australian terrier puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        ), Puppy(
+        ),
+        Puppy(
             id = 9,
             photo = R.drawable.pug,
             name = "Sprite",
@@ -116,7 +133,8 @@ fun getPuppyList(): List<Puppy> {
             age = 5,
             color = "White",
             description = "This is Sprite. A pug, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        ), Puppy(
+        ),
+        Puppy(
             id = 10,
             photo = R.drawable.dalmatian,
             name = "Inu",
