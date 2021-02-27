@@ -29,8 +29,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 4,
             age = 2,
             color = "White",
-            description = "This is Buddy. A husky puppy with white and black fur, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection." +
-                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Buddy. A husky puppy with white and black fur, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ),
         Puppy(
             id = 2,
@@ -41,8 +40,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 10,
             age = 4,
             color = "Golden",
-            description = "This is Tipsy. A pomeranian puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Tipsy. A pomeranian puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ),
         Puppy(
             id = 3,
@@ -53,8 +51,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 15,
             age = 5,
             color = "White",
-            description = "This is Eva. A shih tzu puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Eva. A shih tzu puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ),
         Puppy(
             id = 4,
@@ -65,8 +62,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 9,
             age = 4,
             color = "White",
-            description = "This is Odin. A cavalier king charles spaniel puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Odin. A cavalier king charles spaniel puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ),
         Puppy(
             id = 5,
@@ -77,8 +73,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 12,
             age = 3,
             color = "Black",
-            description = "This is Levi. A dachshund puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Levi. A dachshund puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ),
         Puppy(
             id = 6,
@@ -89,8 +84,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 20,
             age = 7,
             color = "Golden",
-            description = "This is Myra. A akita puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Myra. A akita puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ),
         Puppy(
             id = 7,
@@ -101,8 +95,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 10,
             age = 4,
             color = "White",
-            description = "This is Dexter. A labrador retriever puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Dexter. A labrador retriever puppy, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ), Puppy(
             id = 8,
             photo = R.drawable.australian_terrier,
@@ -112,8 +105,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 20,
             color = "Golden",
             age = 6,
-            description = "This is Ruby. A australian terrier puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Ruby. A australian terrier puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ), Puppy(
             id = 9,
             photo = R.drawable.pug,
@@ -123,8 +115,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 10,
             age = 5,
             color = "White",
-            description = "This is Sprite. A pug, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Sprite. A pug, too cute to handle. Way more energetic than you. He craves attention most of the time because he is scared of being abandoned or ignored. He gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         ), Puppy(
             id = 10,
             photo = R.drawable.dalmatian,
@@ -134,8 +125,7 @@ fun getPuppyList(): List<Puppy> {
             weight = 7,
             age = 2,
             color = "White",
-            description = "This is Inu. A dalmatian puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection." +
-                    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            description = "This is Inu. A dalmatian puppy, too cute to handle. Way more energetic than you. She craves attention most of the time because she is scared of being abandoned or ignored. She gives a feeling of protection. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         )
     )
 }
